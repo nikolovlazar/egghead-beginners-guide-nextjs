@@ -24,19 +24,19 @@ I hope you like this course, and have fun learning ❤️
 
 ## Lessons list
 
-- Lesson 01: Create a new Next.js project
-- Lesson 02: Create and navigate between pages
-- Lesson 03: Serve static assets
-- Lesson 04: Create custom style
-- Lesson 05: Create a robots.txt file
-- Lesson 06: Override the App component
-- Lesson 07: Create custom Layouts
-- Lesson 08: Provide page-specific metadata
-- Lesson 09: Use the Static Generation method
-- Lesson 10: Use the Server-side Rendering method
-- Lesson 11: Create Dynamic Routes
-- Lesson 12: Create and use API Routes
-- Lesson 13: Use `next/image` for Image Optimization
-- Lesson 14: Import packages dynamically
-- Lesson 15: Import components dynamically
-- Lesson 16: Deploy your Next.js app on Vercel
+- `Lesson 01`: Create a new Next.js project
+- `Lesson 02`: Create and navigate between pages
+- `Lesson 03`: Serve static assets
+- `Lesson 04`: Create custom style
+- `Lesson 05`: Create a robots.txt file
+- `Lesson 06`: Override the App component
+- `Lesson 07`: Create custom Layouts
+- `Lesson 08`: Provide page-specific metadata
+- `Lesson 09`: Use the Static Generation method
+- `Lesson 10`: Use the Server-side Rendering method
+- `Lesson 11`: Create Dynamic Routes
+- `Lesson 12`: Create and use API Routes
+- `Lesson 13`: Use `next/image` for Image Optimization
+- `Lesson 14`: Import packages dynamically
+- `Lesson 15`: Import components dynamically
+- `Lesson 16`: Deploy your Next.js app on Vercel
