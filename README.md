@@ -35,7 +35,7 @@ I hope you like this course, and have fun learning ❤️
 9. Use the Static Generation method
 10. Use the Server-side Rendering method
 11. Create Dynamic Routes
-12. Create and use API Routes (might be advance?)
+12. Create and use API Routes
 13. Use `next/image` for Image Optimization
 14. Import packages dynamically
 15. Import components dynamically
