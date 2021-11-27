@@ -1,16 +1,16 @@
-# The Beginner's Guide to Next JS
+# The Beginner's Guide to Next.js
 
-Hi there 👋 Welcome to The Beginner's Guide to Next JS [egghead.io](https://egghead.io) course! 🚀
+Hi there 👋 Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) course! 🚀
 
 ## What do I need?
 
 Before starting this course, you should be comfortable working with React, TypeScript, and understand basic Web Dev concepts.
 
-Also, make sure you have [Node JS](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
+Also, make sure you have [Node.js](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
 
 ## How do I start?
 
-This is a monorepo. Each lesson is its own Next JS project and lives inside the `/lessons` folder. To get started, run `yarn` (or `npm install`) at the root (this installs all of the dependencies), `cd` into a certain lesson (`cd lessons/01`) and follow the instructions in the lesson's `README` file.
+This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into a certain lesson (`cd lessons/01`) and follow the instructions in the lesson's `README` file.
 
 ## Who are you?
 
@@ -24,7 +24,7 @@ I hope you like this course, and have fun learning ❤️
 
 ## Lessons list
 
-- `Lesson 01` - Create a new Next.js project
+- `Lesson 01` - Create a new Next.js TypeScript project
 - `Lesson 02` - Create and navigate between pages
 - `Lesson 03` - Serve static assets
 - `Lesson 04` - Create custom style
