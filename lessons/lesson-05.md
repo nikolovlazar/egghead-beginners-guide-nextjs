@@ -20,6 +20,8 @@ const App = ({ Component, pageProps }: AppProps) => {
 export default App
 ```
 
+> Mind the underscore before "app": `_app.tsx`
+
 The `Component` component is our currently displayed page. The `pageProps` object contains the initial props that were preloaded by the data fetching methods. If no data fetching methods were used in that particular page, the `pageProps` object will be empty.
 
 ## 🚀 Exercise
