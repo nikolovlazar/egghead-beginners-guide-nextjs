@@ -1,9 +1,32 @@
-# Lesson 07: Use UI frameworks like Chakra UI
+# Lesson 07: Override the Document
 
 ## Background
-In the previous lesson we learned how to create and use CSS files. But, most of the developers use UI frameworks to make their life easier. Using a UI framework like Chakra UI in combination with Next.js will supercharge your feature development and make the styling of your app even easier.
+Just like `_app.tsx`, we can also override the `_document.tsx` file. We can use a custom `Document` to augment our application's `<html>` and `<body>` tags, like setting the `lang` property of the `<html>` tag, adding third-party scripts, linking custom fonts, add analytics scripts etc...
 
-Frameworks like [Chakra UI](https://chakra-ui.com) utilize the React Context API to configure your web app's theme and ensure consistent styles. As we mentioned in the [Lesson 05](../lesson-05/README.md), we can override the `App` component to persist layout between page changes and inject additional data into pages. That's where we can add the `ChakraProvider`.
+To override the default `Document`, we need to create a file `pages/_document.tsx`:
+
+```typescript
+import Document, { Html, Head, Main, NextScript } from 'next/document'
+
+class MyDocument extends Document {
+  render() {
+    return (
+      <Html>
+        <Head />
+        <body>
+          <Main />
+          <NextScript />
+        </body>
+      </Html>
+    )
+  }
+}
+
+export default MyDocument
+```
+> 💡 The `<Html>`, `<Head />`, `<Main />` and `<NextScript />` are required for the page to be properly rendered!
+
+Note that the `Document` is only rendered in the server, so event handlers like `onClick` will not work!
 
 ## 🚀 Exercise
-In this lesson, we're going to configure Chakra UI in our project.
+In this lesson, we're going to override the `Document`.
