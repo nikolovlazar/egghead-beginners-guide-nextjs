@@ -10,7 +10,7 @@ Also, make sure you have [Node.js](https://nodejs.org/) and [Visual Studio Code]
 
 ## How do I start?
 
-This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into a certain lesson (`cd lessons/01`) and follow the instructions in the lesson's `README` file.
+This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `lessons` and open the lesson's file (`lesson-01.md`), which contains the instructions.
 
 ## Who are you?
 
@@ -24,19 +24,18 @@ I hope you like this course, and have fun learning ❤️
 
 ## Lessons list
 
-- `Lesson 01` - Create a new Next.js TypeScript project
-- `Lesson 02` - Create and navigate between pages
-- `Lesson 03` - Create Dynamic Routes
-- `Lesson 04` - Serve static assets
-- `Lesson 05` - Create custom style
-- `Lesson 06` - Create a robots.txt file
-- `Lesson 07` - Override the App component
-- `Lesson 08` - Create custom Layouts
-- `Lesson 09` - Provide page-specific metadata
-- `Lesson 10` - Use the Static Generation method
-- `Lesson 11` - Use the Server-side Rendering method
-- `Lesson 12` - Create and use API Routes
-- `Lesson 13` - Use `next/image` for Image Optimization
-- `Lesson 14` - Import packages dynamically
-- `Lesson 15` - Import components dynamically
-- `Lesson 16` - Deploy your Next.js app on Vercel
+- `Lesson 01` - [Create a new Next.js TypeScript project](lessons/lesson-01.md)
+- `Lesson 02` - [Create and navigate between pages](lessons/lesson-02.md)
+- `Lesson 03` - [Create Dynamic Routes](lessons/lesson-03.md)
+- `Lesson 04` - [Serve static assets](lessons/lesson-04.md)
+- `Lesson 05` - [Create custom style](lessons/lesson-05.md)
+- `Lesson 06` - [Override the App component](lessons/lesson-06.md)
+- `Lesson 07` - [Create custom Layouts](lessons/lesson-07.md)
+- `Lesson 08` - [Provide page-specific metadata](lessons/lesson-08.md)
+- `Lesson 09` - [Use the Static Generation method](lessons/lesson-09.md)
+- `Lesson 10` - [Use the Server-side Rendering method](lessons/lesson-10.md)
+- `Lesson 11` - [Create and use API Routes](lessons/lesson-11.md)
+- `Lesson 12` - [Use `next/image` for Image Optimization](lessons/lesson-12.md)
+- `Lesson 13` - [Import packages dynamically](lessons/lesson-13.md)
+- `Lesson 14` - [Import components dynamically](lessons/lesson-14.md)
+- `Lesson 15` - [Deploy your Next.js app on Vercel](lessons/lesson-15.md)

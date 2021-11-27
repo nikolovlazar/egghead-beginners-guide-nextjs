@@ -1,6 +1,4 @@
-{
-  /* ✍️ import the Link component from 'next/link' */
-}
+// ✍️ import the Link component from 'next/link'
 
 const Home = () => {
   return (
