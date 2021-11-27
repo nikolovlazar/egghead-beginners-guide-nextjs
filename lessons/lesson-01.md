@@ -12,4 +12,4 @@ NPM has a tool called `npx` used for executing NPM Package Binaries. You can ins
 
 In this lesson we're going to create an empty Next.js TypeScript project using the [create-next-app](https://www.npmjs.com/package/create-next-app) npx template. Because we want to use TypeScript, we need to provide an additional argument in the CLI command to tell `create-next-app` to create our project with TypeScript.
 
-Create your Next.js project in the `/lessons` folder and name it `lesson-01`. After the project gets created, enter `lesson-01` and execute `npm run dev`. If everything's correct, you should see a "Welcome to Next.js!" page.
+To create your Next.js project, `cd` into the `/lessons` folder and run `npx create-next-app lesson-01 --typescript`. After the project gets created, `cd` `lesson-01` and execute `npm run dev`. If everything's correct, you should see a "Welcome to Next.js!" page.

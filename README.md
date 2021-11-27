@@ -26,15 +26,15 @@ I hope you like this course, and have fun learning ❤️
 
 - `Lesson 01` - Create a new Next.js TypeScript project
 - `Lesson 02` - Create and navigate between pages
-- `Lesson 03` - Serve static assets
-- `Lesson 04` - Create custom style
-- `Lesson 05` - Create a robots.txt file
-- `Lesson 06` - Override the App component
-- `Lesson 07` - Create custom Layouts
-- `Lesson 08` - Provide page-specific metadata
-- `Lesson 09` - Use the Static Generation method
-- `Lesson 10` - Use the Server-side Rendering method
-- `Lesson 11` - Create Dynamic Routes
+- `Lesson 03` - Create Dynamic Routes
+- `Lesson 04` - Serve static assets
+- `Lesson 05` - Create custom style
+- `Lesson 06` - Create a robots.txt file
+- `Lesson 07` - Override the App component
+- `Lesson 08` - Create custom Layouts
+- `Lesson 09` - Provide page-specific metadata
+- `Lesson 10` - Use the Static Generation method
+- `Lesson 11` - Use the Server-side Rendering method
 - `Lesson 12` - Create and use API Routes
 - `Lesson 13` - Use `next/image` for Image Optimization
 - `Lesson 14` - Import packages dynamically
