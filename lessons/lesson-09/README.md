@@ -2,7 +2,7 @@
 
 ## Background
 
-React's composable nature allows us to create reusable components. Layouts are exactly that! In [Lesson 05](../lessons/lesson-05) we learned what's the `App` component and how to override it. So, if we had a custom layout and wanted to use it, the `App` component is where we should start.
+React's composable nature allows us to create reusable components. Layouts are exactly that! In [Lesson 05](../lesson-05) we learned what's the `App` component and how to override it. So, if we had a custom layout and wanted to use it, the `App` component is where we should start.
 
 In Next.js there are two ways that you can define a custom layout:
 - [Single Shared Layout](#single-shared-layout)
