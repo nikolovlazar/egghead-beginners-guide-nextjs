@@ -1,4 +1,4 @@
-# Lesson 12: UUse the Server-side Rendering method
+# Lesson 12: Use the Server-side Rendering method
 
 ## Background
 
