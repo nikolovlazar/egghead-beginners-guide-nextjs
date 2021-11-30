@@ -38,6 +38,4 @@ I hope you like this course, and have fun learning ❤️
 - `Lesson 12` - [Use the Server-side Rendering method](lessons/lesson-12)
 - `Lesson 13` - [Create and use API Routes](lessons/lesson-13)
 - `Lesson 14` - [Use `next/image` for Image Optimization](lessons/lesson-14)
-- `Lesson 15` - [Import packages dynamically](lessons/lesson-15)
-- `Lesson 16` - [Import components dynamically](lessons/lesson-16)
-- `Lesson 17` - [Deploy your Next.js app on Vercel](lessons/lesson-17)
+- `Lesson 15` - [Deploy your Next.js app on Vercel](lessons/lesson-15)
