@@ -21,8 +21,19 @@ const Home = ({ genres }: Props) => {
   )
 }
 
-export const getServerSideProps: GetServerSideProps<Props> = async (context) => {
-  const genres = ['rock', 'country', 'pop', 'rap', 'folk', 'metal', 'rnb', 'funk']
+export const getServerSideProps: GetServerSideProps<Props> = async (
+  context
+) => {
+  const genres = [
+    'rock',
+    'country',
+    'pop',
+    'rap',
+    'folk',
+    'metal',
+    'rnb',
+    'funk'
+  ]
   const search = context.query?.['search'] as string | undefined
 
   let filteredGenres: string[] = []
@@ -34,7 +45,7 @@ export const getServerSideProps: GetServerSideProps<Props> = async (context) => 
 
   return {
     props: {
-      genres: filteredGenres,
+      genres: filteredGenres
     }
   }
 }

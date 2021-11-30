@@ -24,10 +24,19 @@ const Home = ({ genres }: Props) => {
 
 // ✍️ export the getServerSideProps method instead
 export const getStaticProps: GetStaticProps<Props> = async (context) => {
-  const genres = ['rock', 'country', 'pop', 'rap', 'folk', 'metal', 'rnb', 'funk']
+  const genres = [
+    'rock',
+    'country',
+    'pop',
+    'rap',
+    'folk',
+    'metal',
+    'rnb',
+    'funk'
+  ]
   return {
     props: {
-      genres,
+      genres
     }
   }
 }
