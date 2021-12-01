@@ -18,10 +18,10 @@ type Props = {
   lessons: Lesson[]
 }
 
-const Home = ({ lesson }: Props) => {
+const Home = ({ lessons }: Props) => {
   return (
     <ul>
-      // loop through the lessons and display them in a <li> tag
+      {lessons.map((lesson) => (...))}
     </ul>
   )
 }
