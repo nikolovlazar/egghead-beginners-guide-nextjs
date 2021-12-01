@@ -10,20 +10,40 @@ Vercel is optimized for Next.js. Out of the box, it applies the following optimi
 - Pages that use Server-Side Rendering and API routes will automatically become isolated Serverless Functions. This allows page rendering and API requests to scale infinitely.
 
 To deploy your app on Vercel, first you need to push it to a Git provider, like GitHub. Then, follow these steps:
-- Sign up to Vercel
-- Then you'll see the "Import Project" page. Pick the Git provider you host your app's source at.
+<ul>
+  <li>
+    Sign up to Vercel (it's free, no credit card needed)
+  </li>
+  <li>
+  <details>
+  <summary>
+    Then you'll see the "Import Project" page. Pick the Git provider you host your app's source at.
+  </summary>
 
-![Import Project](./readme-assets/import-repository.png)
+  ![Import Project](./readme-assets/import-repository.png)
+  </details>
+  </li>
+  <li>
+  <details>
+  <summary>After you've authenticated with your Git provider, you will see a list of your repos. Find the app you want to deploy and click on the "Import" button.</summary>
 
-- After you've authenticated with your Git provider, you will see a list of your repos. Find the app you want to deploy and click on the "Import" button.
+  ![Import Repository](./readme-assets/repository-import.png)
+  </details>
+  </li>
+  <li>
+  <details>
+  <summary>
+    Vercel will automatically figure out that it's a Next.js project, and it will apply the defaults for you. If you use any Environment Variables, make sure you add them in the "Environments Variables" section.
+  </summary>
 
-![Import Repository](./readme-assets/repository-import.png)
+  ![Configure Project](./readme-assets/configure-project.png)
+  </details>
+  </li>
 
-- Vercel will automatically figure out that it's a Next.js project, and it will apply the defaults for you. If you use any Environment Variables, make sure you add them in the "Environments Variables" section.
-
-![Configure Project](./readme-assets/configure-project.png)
-
-- When you're ready, hit the "Deploy" button and you app will be built and deployed in a few minutes.
+  <li>
+    When you're ready, hit the "Deploy" button and you app will be built and deployed in a few minutes.
+  </li>
+</ul>
 
 Congratulations! You app is live now! 🎉
 
