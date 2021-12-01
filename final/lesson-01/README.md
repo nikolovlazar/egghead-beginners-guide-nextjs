@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lesson 01: Create a new Next.js TypeScript project
 
-## Getting Started
+## What is Next.js?
 
-First, run the development server:
+Next.js is an open-source full-stack React framework built on top of Node.js. It enables developers to build super fast, optimized web sites and web apps. While traditional React apps are rendered on the client-side, Next.js gives you the option to also render your pages on the server-side. Its features like built-in router, per-page rendering options, automatic static optimization, provide a best in class developer experience and rapid feature development. The React documentation lists Next.js as a "Recommended Toolchain" for building a server-side rendered React apps. It is originally built by Guillermo Rauch, and it is developed and maintained by Vercel.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Background
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+NPM has a tool called `npx` used for executing NPM Package Binaries. You can install it by running `npm install -g npx` in your terminal. We can use the `npx` tool to execute packages like `create-react-app` and `create-next-app` that will scaffold our new project.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🚀 Exercise
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+In this lesson we're going to create an empty Next.js TypeScript project using the [create-next-app](https://www.npmjs.com/package/create-next-app) npx template. Because we want to use TypeScript, we need to provide an additional argument in the CLI command to tell `create-next-app` to create our project with TypeScript.
