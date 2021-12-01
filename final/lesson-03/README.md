@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lesson 03: Create Dynamic Routes
 
-## Getting Started
+## Background
 
-First, run the development server:
+We learned in the previous lesson that Next.js treats our files in the `pages/` directory as pages, and it automatically generates routes for us. But, what if we wanted to create a page with a dynamic route? You can add brackets around the page's name (`[pid].tsx`) to create a dynamic route.
 
-```bash
-npm run dev
-# or
-yarn dev
+Let's say we have a page in `pages/post/[pid].tsx`:
+
+```typescript
+import { useRouter } from 'next/router'
+
+const Post = () => {
+  const router = useRouter()
+  const { pid } = router.query
+
+  return <p>Post: {pid}</p>
+}
+
+export default Post
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Any route like `/post/1`, `/post/hello-world`, etc. will be matched by the `[pid].tsx` page. The dynamic parameter `pid` will be available to us as a query parameter through Next.js's router.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+If we want to have a multi-segment dynamic route, we can wrap the folders' names with brackets too, for example `pages/post/[pid]/[comment].tsx`. The router's query will merge the two dynamic segments, so if we visited `/post/hello-world/love-it`, the `query` object will be:
+```typescript
+{ pid: "hello-world", comment: "love-it" }
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 🚀 Exercise
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+In this lesson, we're starting with a page that lists music genres. We're going to create a genre page that will display the genre's name dynamically. Examples:
+- `/rock`
+- `/country`
+- `/pop`
 
-## Learn More
+## ⭐️ Challenge
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Make a new dynamic page that will display the artist's name and their music genre. Examples:
+- `/rock/axl-rose` should display "axl-rose is a rock music artist!"
+- `/country/chris-stapleton` should display "chris-stapleton is a country music artist!"
+- `/pop/bruno-mars` should display "bruno-mars is a pop music artist!"

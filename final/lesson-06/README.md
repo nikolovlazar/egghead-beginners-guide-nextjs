@@ -1,34 +1,97 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lesson 06: Create custom style
 
-## Getting Started
+## Background
 
-First, run the development server:
+In Next.js, there are several ways to achieve custom styles:
+- [Adding a Global Stylesheet](#adding-a-global-stylesheet)
+- [Component-level CSS](#component-level-css)
+- [CSS-in-JS](#css-in-js)
 
-```bash
-npm run dev
-# or
-yarn dev
+### Adding a Global Stylesheet
+To add a global stylesheet, we need to import it in the `pages/_app.tsx` file. If we haven't overriden the `App` yet, we should do that first.
+
+Let's say we have the following file `styles.css` at the root of the project:
+
+```css
+body {
+  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif;
+  padding: 20px 20px 60px;
+  max-width: 680px;
+  margin: 0 auto;
+}
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To use it, we need to simply import it in our `_app.tsx` file:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```typescript
+import type { AppProps } from 'next/app'
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+import '../styles.css'
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+const App = ({ Component, pageProps }: AppProps) => {
+  return <Component {...pageProps} />
+}
 
-## Learn More
+export default App
+```
 
-To learn more about Next.js, take a look at the following resources:
+Since we're importing them in our `_app.tsx` file, these styles will be applied to every page.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> Since Next.js 9.5.4, we can also import styles from `node_modules`, for example: `import 'bootstrap/dist/css/bootstrap.css'` will import Bootstrap and it will work just fine.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Component-level CSS
 
-## Deploy on Vercel
+Another way of achieving custom styles is using [CSS Modules](https://github.com/css-modules/css-modules), which Next.js has support for.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Let's say we want to make a reusable Button component. First, we're going to create the CSS module `src/components/button/button.module.css`:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```css
+.error {
+  color: white;
+  background-color: red;
+}
+```
+Then, we're going to create the component itself `src/components/button/button.tsx`:
+
+```typescript
+import styles from './button.module.css'
+
+const Button = () => {
+  return (
+    <button
+      type="button"
+      className={styles.error}
+    >
+      Delete
+    </button>
+  )
+}
+
+export default Button
+```
+
+### CSS-in-JS
+
+Next.js also comes with a built-in CSS-in-JS support. The simplest way to do CSS-in-JS is inline styles:
+
+```typescript
+const Button = () => {
+  return (
+    <button
+      type="button"
+      style={{ color: 'white', backgroundColor: 'red' }}
+    >
+      Delete
+    </button>
+  )
+}
+
+export default Button
+```
+
+## 🚀 Exercise
+In this lesson, we're going to try all three methods:
+- We're going to create a global stylesheet that defines the container layout
+- We're going to create a flexbox `<div>` using CSS-in-JS
+- We're going to create a "Log in" `Button` component that uses CSS Modules and put it in the flexbox

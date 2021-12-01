@@ -1,4 +1,4 @@
-# Lesson 07: Use UI frameworks like Chakra UI
+# Lesson 08: Use UI frameworks like Chakra UI
 
 ## Background
 In [Lesson 06](../lesson-06/README.md) we learned how to create and use CSS files. But, most of the developers use UI frameworks to make their life easier. Using a UI framework like Chakra UI in combination with Next.js will supercharge your feature development and make the styling of your app even easier.
