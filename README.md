@@ -1,5 +1,7 @@
 # The Beginner's Guide to Next.js
 
+![Workshop cover](./cover.png)
+
 ## 👋 Welcome
 
 Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) workshop! 🚀
