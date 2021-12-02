@@ -1,6 +1,6 @@
 # The Beginner's Guide to Next.js
 
-![Workshop cover](./cover.png)
+![Workshop cover](./workshop-cover.png)
 
 ## 👋 Welcome
 
