@@ -41,7 +41,7 @@ Here are some egghead.io courses that can bring you up to speed:
 
 ## 💽 Workshop Setup
 
-This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `lessons` and open the lesson's file (`lesson-01.md`), which contains the instructions.
+This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `lessons` and open the lesson's README file (`lesson-01.md`), which contains the instructions.
 
 Also, make sure you have [Node.js](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
 
