@@ -1,18 +1,10 @@
 # The Beginner's Guide to Next.js
 
-Hi there 👋 Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) course! 🚀
+## 👋 Welcome
 
-## What do I need?
+Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) course! 🚀
 
-Before starting this course, you should be comfortable working with React, TypeScript, and understand basic Web Dev concepts.
-
-Also, make sure you have [Node.js](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
-
-## How do I start?
-
-This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `lessons` and open the lesson's file (`lesson-01.md`), which contains the instructions.
-
-## Who are you?
+## 🤠 Instructor
 
 My name is Lazar Nikolov and I'm a developer / designer from Skopje, North Macedonia 🇲🇰! I work at [CodeChem](https://codechem.com), I'm a core member at [Chakra UI](https://chakra-ui.com), and I'm also an [egghead instructor](https://egghead.io/q/resources-by-lazar-nikolov).
 
@@ -20,9 +12,36 @@ My first interaction with programming was back in 2011, while I was still in hig
 
 I'm a super friendly guy, so if you have any questions, or just want to talk to me, the best place to reach me is on Twitter at [@NikolovLazar](https://twitter.com/NikolovLazar).
 
-I hope you like this course, and have fun learning ❤️
+## 🎯 Goal
 
-## Lessons list
+After finishing this course, you'll become comfortable using Next.js to build your web apps and deploy them on Vercel.
+
+## 🚅 Skills
+
+You'll learn about web page rendering like SSR, SSG, which as a skill is completely transferrable in other frameworks and technologies.
+
+If you haven't worked with TypeScript before, that's another skill that you'll learn and also apply in other frameworks and technologies.
+
+We'll also going learn how to architecture our front-end using pages, layouts, and components, which is a skill you can apply in every front-end project in your future.
+
+## 🚧 Prerequisites
+
+Before starting this course, you should be comfortable working with React, TypeScript, and understand basic Web Dev concepts.
+
+Here are some egghead.io courses that can bring you up to speed:
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) by Kent C. Dodds
+- [React Context for State Management](https://egghead.io/courses/react-context-for-state-management) by Dave Ceddia
+- [Shareable Custom Hooks in React](https://egghead.io/courses/shareable-custom-hooks-in-react) by Joe Previte
+- [Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript) by John Lindquist
+- [Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript) by Ari Picker
+
+## 💽 Workshop Setup
+
+This is a monorepo. Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `lessons` and open the lesson's file (`lesson-01.md`), which contains the instructions.
+
+Also, make sure you have [Node.js](https://nodejs.org/) and [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
+
+## 🔢 Lessons list
 
 - `Lesson 01` - [Create a new Next.js TypeScript project](lessons/lesson-01.md)
 - `Lesson 02` - [Create and navigate between pages](lessons/lesson-02)
@@ -39,3 +58,11 @@ I hope you like this course, and have fun learning ❤️
 - `Lesson 13` - [Create and use API Routes](lessons/lesson-13)
 - `Lesson 14` - [Use `next/image` for Image Optimization](lessons/lesson-14)
 - `Lesson 15` - [Deploy your Next.js app on Vercel](lessons/lesson-15)
+
+## ❤️ Contributors
+
+PRs are always welcome. If you find a typo, or have any ideas on how to improve the content, feel free to submit a PR. Let's make learning Next.js better for everyone!
+
+## 🍩 Feedback form
+
+// TODO: add Feedback link
