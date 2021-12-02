@@ -2,7 +2,11 @@
 
 ## 👋 Welcome
 
-Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) course! 🚀
+Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) workshop! 🚀
+
+In this workshop we will discover the essential features of Next.js. Every lesson is an isolated mini project that focuses only on a specific feature, so you don't have anything extra to worry about. By the end of this workshop, you'll learn how to create Next.js projects, use Next.js's data fetching methods, create your own API handlers, use UI frameworks, and deploy your apps on Vercel.
+
+I hope you like this workshop, and have fun learning ❤️
 
 ## 🤠 Instructor
 
@@ -14,7 +18,7 @@ I'm a super friendly guy, so if you have any questions, or just want to talk to 
 
 ## 🎯 Goal
 
-After finishing this course, you'll become comfortable using Next.js to build your web apps and deploy them on Vercel.
+After finishing this workshop, you'll become comfortable using Next.js to build your web apps and deploy them on Vercel.
 
 ## 🚅 Skills
 
@@ -26,7 +30,7 @@ We'll also going learn how to architecture our front-end using pages, layouts, a
 
 ## 🚧 Prerequisites
 
-Before starting this course, you should be comfortable working with React, TypeScript, and understand basic Web Dev concepts.
+Before starting this workshop, you should be comfortable working with React, TypeScript, and understand basic Web Dev concepts.
 
 Here are some egghead.io courses that can bring you up to speed:
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) by Kent C. Dodds
@@ -65,4 +69,6 @@ PRs are always welcome. If you find a typo, or have any ideas on how to improve 
 
 ## 🍩 Feedback form
 
-// TODO: add Feedback link
+Your feedback is always welcome 🙏. It's not just useful for me. Your feedback will help me make the content better for every other developer friend in future. Visit [this form](https://forms.gle/fXJdRAT5SBSjGspb7) if you feel like providing a feedback.
+
+Thank you ❤️
