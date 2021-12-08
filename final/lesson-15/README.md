@@ -49,4 +49,4 @@ Congratulations! You app is live now! 🎉
 
 ## 🚀 Exercise
 
-We're going to deploy this lesson to Vercel.
+Deploy this lesson to Vercel.

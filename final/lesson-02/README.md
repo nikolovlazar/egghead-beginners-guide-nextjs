@@ -24,4 +24,4 @@ export default Home;
 
 ## 🚀 Exercise
 
-In this lesson, we're going to create a new "About" page and add a link in the Home page to it.
+Create a new "About" page and add a link in the Home page to it.

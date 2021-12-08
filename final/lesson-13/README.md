@@ -56,4 +56,4 @@ const handler: NextApiHandler = async (req, res) => {
 
 ## 🚀 Exercise
 
-In this lesson, we're going to create a User Directory API that returns data for a given user.
+Create a User Directory API that returns data for a given user. Use a dynamic route that contains the `userId`, and return the user with that ID. The user data is exported from `data/users.ts`.

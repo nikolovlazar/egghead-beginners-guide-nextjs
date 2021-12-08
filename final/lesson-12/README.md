@@ -35,7 +35,7 @@ Unlike SSG, with SSR we don't need to provide a method similar to the `getStatic
 
 ## 🚀 Exercise
 
-In this lesson, we're going to refactor the previous lesson's solution to use SSR instead.
+Refactor the previous lesson's solution to use SSR instead.
 
 ## ⭐️ Challenge
 

@@ -64,4 +64,8 @@ export default Home
 
 ## 🚀 Exercise
 
-In this lesson, we're going to add the `"lazar.png"` image (which is at the root of this project) to the Home page using the `Image` component.
+Add the `"lazar.png"` image (which is at the root of this project) to the Home page using the `Image` component.
+
+## ⭐️ Challenge
+
+Display a remote image from Twitter using the `Image` component.

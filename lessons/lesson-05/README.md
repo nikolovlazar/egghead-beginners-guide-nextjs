@@ -26,4 +26,4 @@ The `Component` component is our currently displayed page. The `pageProps` objec
 
 ## 🚀 Exercise
 
-In this lesson, we're going to override the `App` component and pass a `title` prop to the `Component`.
+Override the `App` component and pass a `title` prop to the `Component`.

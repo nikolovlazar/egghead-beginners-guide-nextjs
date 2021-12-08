@@ -16,4 +16,4 @@ The `public` folder is also useful for the `robots.txt`, `favicon.ico`, Google S
 
 ## 🚀 Exercise
 
-In this lesson, we're going to add the `"lazar.png"` image (which is at the root of this project) to the Home page.
+Add the `"lazar.png"` image (which is at the root of this project) to the Home page.

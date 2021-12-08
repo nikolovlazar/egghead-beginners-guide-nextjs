@@ -126,7 +126,7 @@ That's how we can setup a simple mechanism for custom per-page layouts.
 
 ## 🚀 Exercise
 
-In this lesson, we're going to create a single shared layout that adds a navigation bar and a footer to each of our pages.
+Create a single shared layout that adds a navigation bar and a footer to each of our pages.
 
 ## ⭐️ Challenge
 

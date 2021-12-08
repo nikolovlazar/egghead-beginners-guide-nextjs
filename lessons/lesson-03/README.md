@@ -28,7 +28,7 @@ If we want to have a multi-segment dynamic route, we can wrap the folders' names
 
 ## 🚀 Exercise
 
-In this lesson, we're starting with a page that lists music genres. We're going to create a genre page that will display the genre's name dynamically. Examples:
+Create a genre page that will display the genre's name dynamically. Examples:
 - `/rock`
 - `/country`
 - `/pop`

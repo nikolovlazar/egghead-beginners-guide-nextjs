@@ -114,7 +114,7 @@ If we don't want to display a Loading page, we can set the `fallback` property i
 
 ## 🚀 Exercise
 
-In this lesson, we're going to display a page with a list of genres (like in [Lesson 03](../lesson-03)) and provide the genres using `getStaticProps`.
+Display a page with a list of genres (like in [Lesson 03](../lesson-03)) and provide the genres using `getStaticProps`.
 
 ## ⭐️ Challenge
 

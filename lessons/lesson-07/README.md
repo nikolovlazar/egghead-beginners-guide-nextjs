@@ -29,4 +29,4 @@ export default MyDocument
 Note that the `Document` is only rendered in the server, so event handlers like `onClick` will not work!
 
 ## 🚀 Exercise
-In this lesson, we're going to override the `Document`.
+Override the `Document`.

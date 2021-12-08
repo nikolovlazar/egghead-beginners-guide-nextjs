@@ -91,7 +91,7 @@ export default Button
 ```
 
 ## 🚀 Exercise
-In this lesson, we're going to try all three methods:
-- We're going to create a global stylesheet that defines the container layout
-- We're going to create a flexbox `<div>` using CSS-in-JS
-- We're going to create a "Log in" `Button` component that uses CSS Modules and put it in the flexbox
+Try all three methods:
+- Create a global stylesheet that defines the container layout
+- Create a flexbox `<div>` using CSS-in-JS
+- Create a "Log in" `Button` component that uses CSS Modules and put it in the flexbox

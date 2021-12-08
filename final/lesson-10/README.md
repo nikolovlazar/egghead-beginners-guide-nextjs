@@ -41,7 +41,7 @@ const Home = () => {
         <meta name="og:title" content="My awesome course" key="title" />
       </Head>
       <Head>
-        <meta name="og:title" content="My Next.js course" key="title" />
+        <meta name="og:title" content="My Next.js course" key="title" /> // <--- this tag will be rendered
       </Head>
       <div>
         <h1>Homepage</h1>
@@ -61,4 +61,4 @@ The `title`, `meta`, or any other elements need to be direct children of the `He
 
 ## 🚀 Exercise
 
-In this lesson, we're going to add a title and description using the `Head` component in our homepage.
+Add a title and description using the `Head` component in our homepage.
