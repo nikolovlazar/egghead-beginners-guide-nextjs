@@ -131,3 +131,7 @@ Create a single shared layout that adds a navigation bar and a footer to each of
 ## ⭐️ Challenge
 
 Implement the mechanism that allows you to specify which layout is going to be rendered in each page separately.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+09+-+Create+custom+Layouts) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

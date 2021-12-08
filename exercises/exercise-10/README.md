@@ -62,3 +62,7 @@ The `title`, `meta`, or any other elements need to be direct children of the `He
 ## 🚀 Exercise
 
 Add a title and description using the `Head` component in our homepage.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+10+-+Provide+page-specific+metadata) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

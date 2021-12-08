@@ -30,3 +30,7 @@ Note that the `Document` is only rendered in the server, so event handlers like 
 
 ## 🚀 Exercise
 Override the `Document`.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+07+-+Override+the+Document) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

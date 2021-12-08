@@ -11,3 +11,7 @@ NPM has a tool called `npx` used for executing NPM Package Binaries. You can ins
 ## 🚀 Exercise
 
 Create an empty Next.js TypeScript project using the [create-next-app](https://www.npmjs.com/package/create-next-app) npx template. Because we want to use TypeScript, we need to provide an additional argument in the CLI command to tell `create-next-app` to create our project with TypeScript.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+01+-+Create+a+new+Next.js+TypeScript+project) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

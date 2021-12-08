@@ -119,3 +119,7 @@ Display a page with a list of genres (like in [Exercise 03](../exercise-03)) and
 ## ⭐️ Challenge
 
 Make a dynamic "genre" page that will display a sentence explaining the genre.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+11+-+Use+the+Static+Generation+method) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

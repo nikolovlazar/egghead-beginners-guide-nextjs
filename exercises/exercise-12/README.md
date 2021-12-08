@@ -40,3 +40,7 @@ Refactor the previous exercise's solution to use SSR instead.
 ## ⭐️ Challenge
 
 To really exploit the power of SSR, utilize the `query` from the context to filter the music genres.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+12+-+Use+the+Server-side+Rendering+method) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

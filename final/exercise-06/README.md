@@ -95,3 +95,7 @@ Try all three methods:
 - Create a global stylesheet that defines the container layout
 - Create a flexbox `<div>` using CSS-in-JS
 - Create a "Log in" `Button` component that uses CSS Modules and put it in the flexbox
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+06+-+Create+custom+style) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

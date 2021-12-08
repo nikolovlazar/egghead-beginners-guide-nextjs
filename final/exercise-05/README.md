@@ -27,3 +27,7 @@ The `Component` component is our currently displayed page. The `pageProps` objec
 ## 🚀 Exercise
 
 Override the `App` component and pass a `title` prop to the `Component`.
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+05+-+Override+the+App+component) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

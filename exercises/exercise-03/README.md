@@ -39,3 +39,7 @@ Make a new dynamic page that will display the artist's name and their music genr
 - `/rock/axl-rose` should display "axl-rose is a rock music artist!"
 - `/country/chris-stapleton` should display "chris-stapleton is a country music artist!"
 - `/pop/bruno-mars` should display "bruno-mars is a pop music artist!"
+
+## 🍩 Exercise Feedback form
+
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+03+-+Create+Dynamic+Routes) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.
