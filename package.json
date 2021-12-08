@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "workspaces": [
-    "lessons/*",
+    "exercises/*",
     "final/*"
   ],
   "author": "Lazar Nikolov <lazar.nikolov.94@gmail.com>",

@@ -6,7 +6,7 @@
 
 Welcome to The Beginner's Guide to Next.js [egghead.io](https://egghead.io) workshop! 🚀
 
-In this workshop we will discover the essential features of Next.js. Every lesson is an isolated mini project that focuses only on a specific feature, so you don't have anything extra to worry about. By the end of this workshop, you'll learn how to create Next.js projects, use Next.js's data fetching methods, create your own API handlers, use UI frameworks, and deploy your apps on Vercel.
+In this workshop we will discover the essential features of Next.js. Every exercise is an isolated mini project that focuses only on a specific feature, so you don't have anything extra to worry about. By the end of this workshop, you'll learn how to create Next.js projects, use Next.js's data fetching methods, create your own API handlers, use UI frameworks, and deploy your apps on Vercel.
 
 I hope you like this workshop, and have fun learning ❤️
 
@@ -43,27 +43,27 @@ Here are some egghead.io courses that can bring you up to speed:
 
 ## 💽 Workshop Setup
 
-Make sure you have [Node.js](https://nodejs.org/), [Visual Studio Code](https://code.visualstudio.com/) and [Yarn](https://yarnpkg.com/) installed on your machine.
+Make sure you have [Node.js](https://nodejs.org/), [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
 
-Each lesson is its own Next.js project and lives inside the `/lessons` folder. To get started, run `yarn` at the root (this installs all of the dependencies), `cd` into `lessons` and open the lesson's README file (`lesson-01.md`), which contains the instructions.
+Each exercise is its own Next.js project and lives inside the `/exercises` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `exercises` and open the execise's README file (`exercise-01.md`), which contains the instructions. Each exercise can be run by running `npm run dev` at the root of the exercise.
 
-## 🔢 Lessons list
+## 🔢 Exercises list
 
-- `Lesson 01` - [Create a new Next.js TypeScript project](lessons/lesson-01.md)
-- `Lesson 02` - [Create and navigate between pages](lessons/lesson-02)
-- `Lesson 03` - [Create Dynamic Routes](lessons/lesson-03)
-- `Lesson 04` - [Serve static assets](lessons/lesson-04)
-- `Lesson 05` - [Override the App component](lessons/lesson-05)
-- `Lesson 06` - [Create custom style](lessons/lesson-06)
-- `Lesson 07` - [Override the Document](lessons/lesson-07)
-- `Lesson 08` - [Use UI frameworks like Chakra UI](lessons/lesson-08)
-- `Lesson 09` - [Create custom Layouts](lessons/lesson-09)
-- `Lesson 10` - [Provide page-specific metadata](lessons/lesson-10)
-- `Lesson 11` - [Use the Static Generation method](lessons/lesson-11)
-- `Lesson 12` - [Use the Server-side Rendering method](lessons/lesson-12)
-- `Lesson 13` - [Create and use API Routes](lessons/lesson-13)
-- `Lesson 14` - [Use `next/image` for Image Optimization](lessons/lesson-14)
-- `Lesson 15` - [Deploy your Next.js app on Vercel](lessons/lesson-15)
+- `Exercise 01` - [Create a new Next.js TypeScript project](exercises/exercise-01.md)
+- `Exercise 02` - [Create and navigate between pages](exercises/exercise-02/README.md)
+- `Exercise 03` - [Create Dynamic Routes](exercises/exercise-03/README.md)
+- `Exercise 04` - [Serve static assets](exercises/exercise-04/README.md)
+- `Exercise 05` - [Override the App component](exercises/exercise-05/README.md)
+- `Exercise 06` - [Create custom style](exercises/exercise-06/README.md)
+- `Exercise 07` - [Override the Document](exercises/exercise-07/README.md)
+- `Exercise 08` - [Use UI frameworks like Chakra UI](exercises/exercise-08/README.md)
+- `Exercise 09` - [Create custom Layouts](exercises/exercise-09/README.md)
+- `Exercise 10` - [Provide page-specific metadata](exercises/exercise-10/README.md)
+- `Exercise 11` - [Use the Static Generation method](exercises/exercise-11/README.md)
+- `Exercise 12` - [Use the Server-side Rendering method](exercises/exercise-12/README.md)
+- `Exercise 13` - [Create and use API Routes](exercises/exercise-13/README.md)
+- `Exercise 14` - [Use `next/image` for Image Optimization](exercises/exercise-14/README.md)
+- `Exercise 15` - [Deploy your Next.js app on Vercel](exercises/exercise-15/README.md)
 
 ## ❤️ Contributors
 
