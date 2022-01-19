@@ -49,21 +49,21 @@ Each exercise is its own Next.js project and lives inside the `/exercises` folde
 
 ## 🔢 Exercises list
 
-- `Exercise 01` - [Create a new Next.js TypeScript project](exercises/exercise-01--create-a-new-next-js-type-script-project/README.md)
-- `Exercise 02` - [Create and navigate between pages](exercises/exercise-02--create-and-navigate-between-pages/README.md)
-- `Exercise 03` - [Create Dynamic Routes](exercises/exercise-03--create-dynamic-routes/README.md)
-- `Exercise 04` - [Serve static assets](exercises/exercise-04--serve-static-assets/README.md)
-- `Exercise 05` - [Override the App component](exercises/exercise-05--override-the-app-component/README.md)
-- `Exercise 06` - [Create custom style](exercises/exercise-06--create-custom-style/README.md)
-- `Exercise 07` - [Override the Document](exercises/exercise-07--override-the-document/README.md)
-- `Exercise 08` - [Use UI frameworks like Chakra UI](exercises/exercise-08--use-ui-frameworks-like-chakra-ui/README.md)
-- `Exercise 09` - [Create custom Layouts](exercises/exercise-09--create-custom-layouts/README.md)
-- `Exercise 10` - [Provide page-specific metadata](exercises/exercise-10--provide-page-specific-metadata/README.md)
-- `Exercise 11` - [Use the Static Generation method](exercises/exercise-11--use-the-static-generation-method/README.md)
-- `Exercise 12` - [Use the Server-side Rendering method](exercises/exercise-12--use-the-server-side-rendering-method/README.md)
-- `Exercise 13` - [Create and use API Routes](exercises/exercise-13--create-and-use-api-routes/README.md)
-- `Exercise 14` - [Use `next/image` for Image Optimization](exercises/exercise-14--use-next-image-for-image-optimization/README.md)
-- `Exercise 15` - [Deploy your Next.js app on Vercel](exercises/exercise-15--deploy-your-next-js-app-on-vercel/README.md)
+- `Exercise 01` - [Create a new Next.js TypeScript project](exercises/exercise-01--create-a-new-next-js-type-script-project)
+- `Exercise 02` - [Create and navigate between pages](exercises/exercise-02--create-and-navigate-between-pages)
+- `Exercise 03` - [Create Dynamic Routes](exercises/exercise-03--create-dynamic-routes)
+- `Exercise 04` - [Serve static assets](exercises/exercise-04--serve-static-assets)
+- `Exercise 05` - [Override the App component](exercises/exercise-05--override-the-app-component)
+- `Exercise 06` - [Create custom style](exercises/exercise-06--create-custom-style)
+- `Exercise 07` - [Override the Document](exercises/exercise-07--override-the-document)
+- `Exercise 08` - [Use UI frameworks like Chakra UI](exercises/exercise-08--use-ui-frameworks-like-chakra-ui)
+- `Exercise 09` - [Create custom Layouts](exercises/exercise-09--create-custom-layouts)
+- `Exercise 10` - [Provide page-specific metadata](exercises/exercise-10--provide-page-specific-metadata)
+- `Exercise 11` - [Use the Static Generation method](exercises/exercise-11--use-the-static-generation-method)
+- `Exercise 12` - [Use the Server-side Rendering method](exercises/exercise-12--use-the-server-side-rendering-method)
+- `Exercise 13` - [Create and use API Routes](exercises/exercise-13--create-and-use-api-routes)
+- `Exercise 14` - [Use `next/image` for Image Optimization](exercises/exercise-14--use-next-image-for-image-optimization)
+- `Exercise 15` - [Deploy your Next.js app on Vercel](exercises/exercise-15--deploy-your-next-js-app-on-vercel)
 
 ## ❤️ Contributors
 
