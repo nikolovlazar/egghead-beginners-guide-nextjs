@@ -68,7 +68,7 @@ The `revalidate` property will tell Next.js to "revalidate" our data maximum one
 
 ## Building pages with dynamic routes
 
-Since the Static Generation happens on build-time, if we have a page that uses [Dynamic Routes](../exercise-03) we also need to export the `getStaticPaths` method. The `getStaticPaths` method returns a list of paths that have to be rendered to HTML at build-time.
+Since the Static Generation happens on build-time, if we have a page that uses [Dynamic Routes](../exercise-03--create-dynamic-routes) we also need to export the `getStaticPaths` method. The `getStaticPaths` method returns a list of paths that have to be rendered to HTML at build-time.
 
 ```typescript
 import type { GetStaticProps, GetStaticPaths } from 'next'
@@ -114,7 +114,7 @@ If we don't want to display a Loading page, we can set the `fallback` property i
 
 ## 🚀 Exercise
 
-Display a page with a list of genres (like in [Exercise 03](../exercise-03)) and provide the genres using `getStaticProps`.
+Display a page with a list of genres (like in [Exercise 03](../exercise-03--create-dynamic-routes)) and provide the genres using `getStaticProps`.
 
 ## ⭐️ Challenge
 

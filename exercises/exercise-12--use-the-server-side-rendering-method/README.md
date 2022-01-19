@@ -2,7 +2,7 @@
 
 ## Background
 
-In the [previous exercise](../exercises/exercise-11) we learned about Next.js's Static Generation method. In this exercise we're going to explore the Server-side Rendering method.
+In the [previous exercise](../exercise-11--use-the-static-generation-method) we learned about Next.js's Static Generation method. In this exercise we're going to explore the Server-side Rendering method.
 
 Just like the Static Generation, SSR (Server-side Rendering) is another way of data fetching supported in Next.js. The difference between SSR and SSG is that in SSR the data gets fetched for every request, while in SSG the data used to be fetched on build-time. This method is good for pages that have dynamic data, data that changes often.
 
