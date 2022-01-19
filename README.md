@@ -45,7 +45,7 @@ Here are some egghead.io courses that can bring you up to speed:
 
 Make sure you have [Node.js](https://nodejs.org/), [Visual Studio Code](https://code.visualstudio.com/) installed on your machine.
 
-Each exercise is its own Next.js project and lives inside the `/exercises` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `exercises` and open the execise's README file (`exercise-01.md`), which contains the instructions. Each exercise can be run by running `npm run dev` at the root of the exercise.
+Each exercise is its own Next.js project and lives inside the `/exercises` folder. To get started, run `npm install` at the root (this installs all of the dependencies), `cd` into `exercises` and open the execise's README file (`exercises/exercise-01--create-a-new-next-js-type-script-project/README.md`), which contains the instructions. Each exercise can be run by running `npm run dev` at the root of the exercise.
 
 ## 🔢 Exercises list
 
