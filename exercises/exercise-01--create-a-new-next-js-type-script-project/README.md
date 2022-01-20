@@ -2,7 +2,7 @@
 
 ## What is Next.js?
 
-Next.js is an open-source full-stack React framework built on top of Node.js. It enables developers to build super fast, optimized web sites and web apps. While traditional React apps are rendered on the client-side, Next.js gives you the option to also render your pages on the server-side. Its features like built-in router, per-page rendering options, automatic static optimization, provide a best in class developer experience and rapid feature development. The React documentation lists Next.js as a "Recommended Toolchain" for building a server-side rendered React apps. It is originally built by Guillermo Rauch, and it is developed and maintained by Vercel.
+Next.js is an open-source React framework built on top of Node.js. It enables developers to build super fast, optimized web sites and web apps. While traditional React apps are rendered on the client-side, Next.js gives you the option to also render your pages on the server-side. Its features like built-in router, per-page rendering options, automatic static optimization, provide a best in class developer experience and rapid feature development. The React documentation lists Next.js as a "Recommended Toolchain" for building a server-side rendered React apps. It is originally built by Guillermo Rauch, and it is developed and maintained by Vercel.
 
 ## Background
 
