@@ -1,7 +1,7 @@
 # Exercise 05: Override the App Component
 
 ## Background
-Every page in Next.js is initialized by an `App` component. By default it's hidden (internal in Next.js), but we can override it to control the page page initialization if we want to:
+Every page in Next.js is initialized by an `App` component. By default it's hidden (internal in Next.js), but we can override it to control the page initialization if we want to:
 - Persist layout between page changes
 - Keep state when navigating pages
 - Custom error handling
