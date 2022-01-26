@@ -1,4 +1,4 @@
-# Exercise 06: Use `next/image` for Image Optimization
+# Exercise 05: Use `next/image` for Image Optimization
 
 ## Background
 
@@ -72,4 +72,4 @@ Display a remote image from Twitter using the `Image` component.
 
 ## 🍩 Exercise Feedback form
 
-Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+06+-+Use+next/image+for+Image+Optimization) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+05+-+Use+next/image+for+Image+Optimization) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

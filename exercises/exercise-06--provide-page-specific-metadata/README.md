@@ -1,4 +1,4 @@
-# Exercise 05: Provide page-specific metadata
+# Exercise 06: Provide page-specific metadata
 
 ## Background
 Something that every website has in common is a metadata, which consists of a title, description, style links, scripts and so on. In Next.js, we can use the `Head` component to provide metadata for each page specifically:
@@ -65,4 +65,4 @@ Add a title and description using the `Head` component in our homepage.
 
 ## 🍩 Exercise Feedback form
 
-Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+05+-+Provide+page-specific+metadata) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.
+Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+06+-+Provide+page-specific+metadata) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.
