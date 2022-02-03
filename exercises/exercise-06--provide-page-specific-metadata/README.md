@@ -63,6 +63,14 @@ The `title`, `meta`, or any other elements need to be direct children of the `He
 
 Add a title and description using the `Head` component in our homepage.
 
+## 🚩 Checkpoint
+This exercise marks the second checkpoint at which we'll go into breakout rooms to do the following exercises:
+- [Exercise 04: Serve static assets](../exercise-04--serve-static-assets)
+- [Exercise 05: Use next/image for image optimization](../exercise-05--use-next-image-for-image-optimization)
+- [Exercise 06: Provide page-specific metadata](../exercise-06--provide-page-specific-metadata)
+
+Start with the first exercise, and work your way through the last one. If you're stuck, do not hesitate to ask. As soon as you're done you can fill out either the [Post-Breakout Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSda0BFV57OWbSkshNC_jZ809HEBOuW_MzLEz1Bq4PVKtI7R9w/viewform?usp=pp_url&entry.651170566=Group+2:+Static+Assets,+Next+Image,+Page+Metadata), or the feedback forms for each individual exercise. I would appreciate your feedback a lot.
+
 ## 🍩 Exercise Feedback form
 
 Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+06+-+Provide+page-specific+metadata) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

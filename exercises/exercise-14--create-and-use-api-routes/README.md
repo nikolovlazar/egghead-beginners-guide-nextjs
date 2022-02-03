@@ -58,6 +58,14 @@ const handler: NextApiHandler = async (req, res) => {
 
 Create a User Directory API that returns data for a given user. Use a dynamic route that contains the `userId`, and return the user with that ID. The user data is exported from `data/users.ts`.
 
+## 🚩 Checkpoint
+This exercise marks the fourth checkpoint at which we'll go into breakout rooms to do the following exercises:
+- [Exercise 12: Use the Static Generation method](../exercise-12--use-the-static-generation-method)
+- [Exercise 13: Use the Server-side Rendering method](../exercise-13--use-the-server-side-rendering-method)
+- [Exercise 14: Create and use API Routes](../exercise-14--create-and-use-api-routes)
+
+Start with the first exercise, and work your way through the last one. If you're stuck, do not hesitate to ask. As soon as you're done you can fill out either the [Post-Breakout Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSda0BFV57OWbSkshNC_jZ809HEBOuW_MzLEz1Bq4PVKtI7R9w/viewform?usp=pp_url&entry.651170566=Group+4:+Static+Generation,+Server-Side+Rendering,+API+Routes), or the feedback forms for each individual exercise. I would appreciate your feedback a lot.
+
 ## 🍩 Exercise Feedback form
 
 Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+14+-+Create+and+use+API+Routes) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.

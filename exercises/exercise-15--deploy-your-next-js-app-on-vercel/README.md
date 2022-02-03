@@ -51,6 +51,9 @@ Congratulations! You app is live now! 🎉
 
 Deploy this exercise to Vercel.
 
+## 🚩 Checkpoint
+This exercise marks the fifth checkpoint at which we'll go into breakout rooms to do this exercise only. If you're stuck, do not hesitate to ask. As soon as you're done you can fill out either the [Post-Breakout Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSda0BFV57OWbSkshNC_jZ809HEBOuW_MzLEz1Bq4PVKtI7R9w/viewform?usp=pp_url&entry.651170566=Group+5:+Vercel+Deployment), or the feedback form for this exercise. I would appreciate your feedback a lot.
+
 ## 🍩 Exercise Feedback form
 
 Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+15+-+Deploy+your+Next.js+app+on+Vercel) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.
