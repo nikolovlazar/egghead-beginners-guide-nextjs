@@ -11,7 +11,7 @@ const Footer = () => {
       borderTopColor="gray.200"
       borderTopStyle="solid"
     >
-      <SimpleGrid columns={3} rows={3} w="full">
+      <SimpleGrid columns={3} w="full">
         <Link>Link</Link>
         <Link>Link</Link>
         <Link>Link</Link>
