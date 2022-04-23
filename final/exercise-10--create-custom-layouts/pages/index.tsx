@@ -1,4 +1,4 @@
-import type { ReactElement } from 'react'
+import type { ReactNode } from 'react'
 import { Heading } from '@chakra-ui/react'
 
 import Layout from '../src/components/layout'
@@ -11,7 +11,7 @@ const Home = () => {
   )
 }
 
-Home.getLayout = (page: ReactElement) => {
+Home.getLayout = (page: ReactNode) => {
   return <Layout>{page}</Layout>
 }
 
