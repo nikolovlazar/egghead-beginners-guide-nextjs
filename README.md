@@ -1,6 +1,6 @@
 # The Beginner's Guide to Next.js
 
-![Workshop cover](./workshop-cover.png)
+[![Workshop cover](./github-share--nextjs-fundamental-api-patterns.png)](https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f)
 
 ## 👋 Welcome
 
