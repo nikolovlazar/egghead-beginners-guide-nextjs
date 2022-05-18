@@ -49,7 +49,10 @@ Congratulations! You app is live now! 🎉
 
 ## 🚀 Exercise
 
-Deploy this exercise to Vercel.
+Deploy the following project on Vercel: [nikolovlazar/deploy-nextjs-on-vercel](https://github.com/nikolovlazar/deploy-nextjs-on-vercel).
+
+## 🚩 Checkpoint
+This exercise marks the fifth checkpoint at which we'll go into breakout rooms to do this exercise only. If you're stuck, do not hesitate to ask. As soon as you're done you can fill out either the [Post-Breakout Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSda0BFV57OWbSkshNC_jZ809HEBOuW_MzLEz1Bq4PVKtI7R9w/viewform?usp=pp_url&entry.651170566=Group+5:+Vercel+Deployment), or the feedback form for this exercise. I would appreciate your feedback a lot.
 
 ## 🍩 Exercise Feedback form
 

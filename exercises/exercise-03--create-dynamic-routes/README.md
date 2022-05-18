@@ -40,6 +40,14 @@ Make a new dynamic page that will display the artist's name and their music genr
 - `/country/chris-stapleton` should display "chris-stapleton is a country music artist!"
 - `/pop/bruno-mars` should display "bruno-mars is a pop music artist!"
 
+## 🚩 Checkpoint
+This exercise marks the first checkpoint at which we'll go into breakout rooms to do the following exercises:
+- [Exercise 01: Create a new Next.js TypeScript project](../exercise-01--create-a-new-next-js-type-script-project)
+- [Exercise 02: Create and navigate between pages](../exercise-02--create-and-navigate-between-pages)
+- [Exercise 03: Create Dynamic Routes](../exercise-03--create-dynamic-routes)
+
+Start with the first exercise, and work your way through the last one. If you're stuck, do not hesitate to ask. As soon as you're done you can fill out either the [Post-Breakout Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSda0BFV57OWbSkshNC_jZ809HEBOuW_MzLEz1Bq4PVKtI7R9w/viewform?usp=pp_url&entry.651170566=Group+1:+New+Project,+Pages+%26+Navigation,+Dynamic+Routes), or the feedback forms for each individual exercise. I would appreciate your feedback a lot.
+
 ## 🍩 Exercise Feedback form
 
 Writing down what you learn is key to your retention. Also, I want to make sure each exercise is effective at helping you learn the material. Please quickly fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeKPJV5UInaNFlZawN7vZdNyPngyinrkp7eoQO0vzwGzh2EtQ/viewform?usp=pp_url&entry.651170566=Exercise+03+-+Create+Dynamic+Routes) so you can elaborate on what you learned and give me feedback so I can improve it for future learners.
