@@ -12,7 +12,7 @@ I hope you like this workshop, and have fun learning ❤️
 
 ## 🤠 Instructor
 
-My name is Lazar Nikolov and I'm a developer / designer from Skopje, North Macedonia 🇲🇰! I work at [CodeChem](https://codechem.com), I'm a core member at [Chakra UI](https://chakra-ui.com), and I'm also an [egghead instructor](https://egghead.io/q/resources-by-lazar-nikolov).
+My name is Lazar Nikolov and I'm a developer / designer from Skopje, North Macedonia 🇲🇰! I work at [Sentry](https://sentry.io) as a Developer Advocate, I'm a core member at [Chakra UI](https://chakra-ui.com), and I'm also an [egghead instructor](https://egghead.io/q/resources-by-lazar-nikolov).
 
 My first interaction with programming was back in 2011, while I was still in high school. I was learning HTML and CSS on my own, sometimes during the classes (don't tell my teachers 🤫). Throughout my career I've been developing mobile apps, TV apps, desktop apps, but I've found my sweet spot as a Full-stack Engineer working with the React ecosystem.
 
